@@ -1,1 +1,1 @@
-#Arquivos ref. ao projeto "Análise de Documentos Anti-fraude com AzureAI"
+Arquivos ref. ao projeto "Análise de Documentos Anti-fraude com AzureAI"
